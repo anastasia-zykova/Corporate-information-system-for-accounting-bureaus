@@ -1,1 +1,1 @@
-# Corporate-information-system-for-accounting-bureaus
+Корпоративная информационная система для бухгалтерского бюро
